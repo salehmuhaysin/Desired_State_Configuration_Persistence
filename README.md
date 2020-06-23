@@ -1,6 +1,7 @@
-<meta property="og:title" content="title">
+<meta property="og:title" content="Desired_State_Configuration_Persistence">
 <meta property="og:description" content="description">
 <meta property="og:image" content="https://github.com/salehmuhaysin/Desired_State_Configuration/blob/master/images/PullMode.png?raw=true">
+<meta property="og:url" content="https://github.com/salehmuhaysin/Desired_State_Configuration_Persistence/blob/master/README.md">
 <meta name="twitter:card" content="summary_large_image">
 
 # Introduction
