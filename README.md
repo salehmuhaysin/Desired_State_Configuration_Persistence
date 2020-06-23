@@ -1,3 +1,7 @@
+<meta property="og:title" content="title">
+<meta property="og:description" content="description">
+<meta property="og:image" content="https://github.com/salehmuhaysin/Desired_State_Configuration/blob/master/images/PullMode.png?raw=true">
+<meta name="twitter:card" content="summary_large_image">
 
 # Introduction
 
